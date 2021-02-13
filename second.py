@@ -1,3 +1,4 @@
+#direction related
 n = int(input())
 c = 'R'
 x,y=0,0
